@@ -1,0 +1,11 @@
+.intro {
+    background-color: rgb(227, 148, 10);
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.mark {
+    background-color: white;
+    padding: 100px;
+}
